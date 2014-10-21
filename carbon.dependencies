@@ -16,13 +16,23 @@
    "revision": "cm-11.0-4.4.2Kernel"
  },
  {
-   "repository": "gitanO0/hardware_qcom_display-g2",
+   "repository": "Drgravy/hardware_qcom_display-g2",
    "target_path": "hardware/qcom/display-g2",
-   "revision": "kk"
+   "revision": "kitkat"
  },
  {
   "repository": "gitanO0/vendor_lge_g2",
   "target_path": "vendor/lge/g2",
   "revision": "kk"
+ },
+ {
+  "repository": "gitanO0/android_device_lge_vs980",
+  "target_path": "device/lge/vs980",
+  "revision": "cm-11.0-4.4.2Kernel"
+ },
+{
+  "repository": "JackpotClavin/proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "revision": "cm-11.0-4.4.2Kernel"
  }
 ]
