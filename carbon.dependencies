@@ -1,0 +1,28 @@
+[
+ {
+   "remote": "cm",
+   "repository": "CyanogenMod/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "revision": "cm-11.0"
+ },
+ {
+   "repository": "JackpotClavin/device_lge_g2-common",
+   "target_path": "device/lge/g2-common",
+   "revision": "cm-11.0-4.4.2Kernel"
+ },
+ {
+   "repository": "JackpotClavin0/kernel_lge_msm8974",
+   "target_path": "kernel/lge/msm8974",
+   "revision": "cm-11.0-4.4.2Kernel"
+ },
+ {
+   "repository": "gitanO0/hardware_qcom_display-g2",
+   "target_path": "hardware/qcom/display-g2",
+   "revision": "kk"
+ },
+ {
+  "repository": "gitanO0/vendor_lge_g2",
+  "target_path": "vendor/lge/g2",
+  "revision": "kk"
+ }
+]
